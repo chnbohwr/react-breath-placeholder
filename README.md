@@ -26,6 +26,16 @@ class Example extends Component {
 }
 ```
 
+## PropTypes
+| Prop        | Description                                       | Default                    |
+|-------------|---------------------------------------------------|----------------------------|
+| style       | you can set component style by your self.(object) | `{width:100, height:100}`  |
+| className   | set class name by your self.(string)              | `''`                       |
+| loop        | how many loop do you want.(number)                | Infinite                   |
+| duration    | keyframe duration millisecond.(number)            | 3000                       |
+| backgrounds | array of background color hex.(array)             | `["#bbb", "#ddd", "#bbb"]` |
+
+
 ## License
 
 MIT © [chnbohwr](https://github.com/chnbohwr)
