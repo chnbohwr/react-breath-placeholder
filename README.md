@@ -4,6 +4,10 @@
 
 [![NPM](https://img.shields.io/npm/v/react-breath-placeholder.svg)](https://www.npmjs.com/package/react-breath-placeholder) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
+![demo gif](https://media.giphy.com/media/47D5aj1KNeXTmJ3J2K/giphy.gif)
+
+[![Edit react-breath-placeholder-example](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/xr7mmlo964)
+
 ## Install
 
 ```bash
